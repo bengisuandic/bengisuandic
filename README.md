@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bengisuandic
+- Hello there!
 
 <!---
 bengisuandic/bengisuandic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
